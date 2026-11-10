@@ -19,12 +19,6 @@ break. I like understanding how things work end to end, from the network edge to
 - **Observability**: Grafana, InfluxDB, Telegraf
 - **Workflow**: Git, CI checks, documented runbooks
 
-## 🚀 Projects
-
-- **[groscailloux-homelab](https://github.com/HaradasCYB/groscailloux-homelab)**: a self-hosted streaming platform run
-  as a small production service. A Rust automation daemon, a hardened reverse proxy, monitoring, and backups, all
-  documented and version-controlled.
-
 ## 📫 Reach me
 
 Open an issue on one of my repositories, or connect with me on GitHub.
